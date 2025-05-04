@@ -67,7 +67,7 @@ if you are using windows😄
 ---
 
 ## 🧠 Author
-Created by [@Muhile33] <br>
+Created by @Muhile33 <br>
 Built with 💻 Python + ☕ coffee
 
 
