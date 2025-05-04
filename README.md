@@ -17,6 +17,8 @@
 2. Clone this repository:
    ```bash
    git clone https://github.com/Muhile33/ASCII-TRANSLATOR.git
+   cd ASCII-TRANSLATOR
+   cd 'ASCII Project'
    ```
 3. Install the required package:
    ```bash
