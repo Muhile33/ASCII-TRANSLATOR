@@ -57,6 +57,11 @@ Output: `65`
 
 5. Exit: Quit the program
 
+## ⚠️Don't have Linux 
+try [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+WSL: Windows Subsystem For Linux <br>
+if you are using windows😄
+
 ---
 
 ## 🧠 Author
