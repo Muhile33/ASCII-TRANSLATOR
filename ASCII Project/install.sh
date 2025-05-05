@@ -1,5 +1,5 @@
 echo "[*] Installing ASCII TRANSLATOR"
-sudo apt update && sudo apt install tor python3-pip libatlas-base-dev -y
+sudo apt install tor python3-pip libatlas-base-dev -y
 
 echo "[*] Installing Python requirements..."
 pip3 install -r requirements.txt
