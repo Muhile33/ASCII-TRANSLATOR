@@ -20,7 +20,12 @@
    cd ASCII-TRANSLATOR
    cd 'ASCII Project'
    ```
-3. Install the required package:
+3. Create a virtual enviroment (venv)
+ ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+4. Install the required package:
    ```bash
    chmod +x install.sh
    ./install.sh
