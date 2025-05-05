@@ -33,31 +33,32 @@ Run the script
 python3 ascii_converter.py
 ```
 ## 📜Menu Options:
-1. ASCII to Text: Convert space/comma-separated ASCII codes to text
+1. Text → ASCII Codes: Convert text to ASCII values
 
-Example input: `72 101 108 108 111`
+Example: `"AB" → "65 66"`
 
-Output: `Hello`
+2. ASCII Codes → Text: Convert ASCII values to text
 
-2. Text to ASCII: Convert text to ASCII codes
+Example: `"65 66" → "AB"`
 
-Example input: `Hello`
+3. Text → HEX Codes: Convert text to hexadecimal values
 
-Output: `72 101 108 108 111`
+Example: `"AB" → "0x41 0x42"`
 
-3. Number to Char: Convert a number (0-127) to ASCII character
+4. HEX Codes → Text: Convert hexadecimal values to text
 
-Example input: `65`
+Example: `"0x41 0x42" → "AB"`
 
-Output: `A`
+5. Text → Decimal Codes: Convert text to decimal numbers
 
-4. Char to Number: Convert a character to its ASCII value
+Example: `"AB" → "65 66"`
 
-Example input: `A`
+6. Decimal Codes → Text: Convert decimal numbers to text
 
-Output: `65`
+Example: `"65 66" → "AB"`
 
-5. Exit: Quit the program
+ 7. Exit: Quit the program
+
 
 ## ⚠️Don't have Linux 
 try [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
